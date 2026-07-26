@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nuisance256
-- 👀 I’m interested in Game designing and playnig
+- 👀 I’m interested in Game designing.
 - 🌱 I’m currently learning pyhton
 
 <!---
